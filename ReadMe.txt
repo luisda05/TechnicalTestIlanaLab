@@ -10,7 +10,7 @@ Para poder ejecutar las pruebas automatizadas:
 
 Existen dos proyectos, el proyecto "ExamenIlanLab" tiene los dos primeros puntos los cuales son los ejercicios de FooBar y NumeroFeliz, y el proyecto "PruebaAutomatizadaPuntoTres" el cual tiene los tres puntos de automatización de selenium.
 
-Para el proyecto "ExamenIlanLab" crear un proyecto java y ejecutar ambos archvivos .java (FooBar y NumeroFeliz)
+Para el proyecto "ExamenIlanLab" crear un proyecto java y ejecutar ambos archivos .java (FooBar y NumeroFeliz)
 
 Para el proyecto "PruebaAutomatizadaPuntoTres" se crea un proyecto Maven en donde:
 
